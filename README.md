@@ -1,5 +1,7 @@
 # WALKTHROUGH-FPGA-AND-THE-DEVCLOUD
 
+## This Content was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree.
+
 Demonstration showing you how to request an edge node with an Intel i5 CPU and load a model on the Intel® Arria 10 FPGA using Udacity's workspace integration with Intel's 
 DevCloud.
 
@@ -177,7 +179,7 @@ get_results.getResults(job_id_core[0], filename="output.tgz", blocking=True)
 <code>cat stdout.log</code>
 <code>!cat stderr.log</code>
 
-
+# Adaptation as a Repository: Andrés R. Bucheli.
 
 
 
