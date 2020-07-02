@@ -67,7 +67,7 @@ if __name__=='__main__':
     main(args)
 </code></pre>
 
-# Step 2: Creating a Job Submission Script¶
+# Step 2: Creating a Job Submission Script
 To submit a job to the DevCloud, we need to create a shell script. Similar to the Python script above, I have used the <code>%%writefile</code> magic command to create a shell
 script called <code>load_fpga_model_job.sh</code>.
 
