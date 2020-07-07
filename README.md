@@ -179,7 +179,7 @@ get_results.getResults(job_id_core[0], filename="output.tgz", blocking=True)
 <code>cat stdout.log</code>
 <code>!cat stderr.log</code>
 
-# Adaptation as a Repository: Andrés R. Bucheli.
+## Adaptation as a Repository: Andrés R. Bucheli.
 
 
 
